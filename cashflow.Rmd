@@ -1,0 +1,14 @@
+---
+title: "Cash Flow Analysis"
+author: "Karl Polen"
+date: "March 31, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Background
+
+This is an analysis of ASRS cash flow considering a stressed scenario of a sharp stock market decline.  It considers external cash flows from pension obligations and internal cash flows induced by capital calls from partners in credit and real estate.  An excel spreadsheet is provided and this paper documents the process and conclusions.
